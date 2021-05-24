@@ -2,6 +2,8 @@
 // The Net Ninja - NodeJS Tutorial for Beginners
 // Lesson 03 - The V8 Engine
 //-------
-// below I output 3 lines in one console.log instead of 3 via \n line break - yay!
+// below I output multiple lines in one console.log via \n line breaks
+// instead of multiple console.logs - yay!
 // extra line breaks = extra empty lines - yay!
-console.log('\n\n\n••••••\nHowdy Doody to all Ninjas!\n••••••••');
+// etra empty lines = less eye strain
+console.log('\n\n\n••••••\nHowdy Doody to all Ninjas!\n••••••••\n\n\n');
